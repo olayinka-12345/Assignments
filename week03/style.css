@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color:#f57579
+  }
+  .container{
+    width:100%;
+    padding:25px;
+    border:1px solid green
+  }
+  input{
+    width:100px;
+    padding:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    border: none;
+    background-color:#f1f1f1
+    
+  }
+  .registerbut{
+    width:100%;
+    cursor:pointer;
+    padding:10px;
+    border-radius:51px;
+    background-color:green;
+    color:white;
+    
+  }
+  a{color:green}
+  
