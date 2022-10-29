@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  header{
+    display: flex;
+  align-items: center;
+    background-color:gray
+  }
+  ul{
+    list-style: none;
+  display: flex;
+  gap:1rem
+  }
+  ul li a{ text-decoration:none;}
+  p a{text-decoration:none}
+  h1 {
+    background-color: lightcyan;
+  color:green;
+  text-align:center}
+  p::first-letter {
+  color: green; font-size: 2rem;}
+  h3{background:lightcyan;
+    color:green;
+    text-align:center}
+  
